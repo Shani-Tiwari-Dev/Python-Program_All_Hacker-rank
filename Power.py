@@ -1,0 +1,6 @@
+n = int(input())
+f = int(input())
+g = int(input())
+h = int(input())
+e = (n ** f)+(g ** h)
+print(e)
