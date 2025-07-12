@@ -1,0 +1,5 @@
+n = int(input())
+f = int(input())
+e = int(input())
+print(pow(n,f))
+print(pow(n,f,e))
